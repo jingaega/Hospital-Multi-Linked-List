@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1737112109 source:c:\users\davu\documents\strukdat\hospital\hospital.cpp
+	"Hospital.h"
+	<iostream>
+
+1737112109 c:\users\davu\documents\strukdat\hospital\hospital.h
+	<string>
+
+1737112109 source:c:\users\davu\documents\strukdat\hospital\main.cpp
+	"Hospital.h"
+	<iostream>
+
